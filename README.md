@@ -1,5 +1,5 @@
 [ios](#ios-dev-tips)
-[ios2](##ios-dev-tips)
+[android](#android-dev-tips)
 
 
 
@@ -22,7 +22,7 @@ ksdnf;laksdnf
 
 
 
-## ios-dev-tips
+# android-dev-tips
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
