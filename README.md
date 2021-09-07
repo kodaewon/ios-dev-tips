@@ -9,3 +9,4 @@ https://blog.cleancoder.com/ <br>
 https://icons8.kr/
 https://www.geeksforgeeks.org/
 https://www.raywenderlich.com/
+http://www.terms.co.kr/
