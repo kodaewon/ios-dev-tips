@@ -17,3 +17,4 @@ http://shancarter.github.io/mr-data-converter/ <br>
 https://deviq.com/ <br>
 https://help.apple.com/xcode/mac/11.4/ <br>
 https://vscode.dev/ <br>
+https://developer.apple.com/kr/news/ <br>
