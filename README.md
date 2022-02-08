@@ -16,6 +16,7 @@ https://deviq.com/ <br>
 https://help.apple.com/xcode/mac/11.4/ <br>
 https://vscode.dev/ <br>
 https://developer.apple.com/kr/news/ <br>
+https://developer.apple.com/documentation/xcode-release-notes <br>
 
 - framework <br>
 https://minsone.github.io/ios/mac/ios-managing-color-image-storyboard-xib-from-resources-framework <br>
