@@ -30,3 +30,7 @@ https://dojang.io/course/view.php?id=7<br>
 https://minsone.github.io/ios/mac/ios-managing-color-image-storyboard-xib-from-resources-framework <br>
 https://minsone.github.io/ios/mac/ios-framework-part-1-static-framework-dynamic-framework <br>
 https://minsone.github.io/ios/mac/ios-framework-part-2-project-subproject-dependencies <br>
+
+
+- conference <br>
+https://www.youtube.com/playlist?list=PLgUjQUYKwG_gIxv2JUzWZak0OWf88wh7R
