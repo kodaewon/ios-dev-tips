@@ -35,3 +35,6 @@ https://minsone.github.io/ios/mac/ios-framework-part-2-project-subproject-depend
 - conference <br>
 https://www.youtube.com/playlist?list=PLgUjQUYKwG_gIxv2JUzWZak0OWf88wh7R
 https://www.youtube.com/@iOSConfSG/playlists
+
+- Captcha <br>
+https://www.geetest.com/en/adaptive-captcha-demo
